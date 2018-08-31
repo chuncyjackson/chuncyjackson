@@ -19,7 +19,7 @@ body{
    float: right;
 }
  .login a {
-   curser: pointer;
+   cursor: pointer;
    margin-right: 30px:auto;
    padding: 8px 18px;
    border: 1px solid #204156;
