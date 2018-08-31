@@ -1,0 +1,31 @@
+h1 {
+  color: blue;
+}
+
+.container{
+    background-color: blue;
+}
+
+.body{
+    background-color: red;
+}
+
+.navbar li{
+  display: inline;
+  background-image:
+}
+
+ .login {
+   float: right;
+}
+ .login a {
+   curser: pointer;
+   margin-right: 30px:auto;
+   padding: 8px 18px;
+   border: 1px solid #204156
+   position: relative;
+}
+
+ .login a:active {
+   top: 5px;
+ }
