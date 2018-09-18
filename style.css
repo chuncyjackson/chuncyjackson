@@ -1,18 +1,26 @@
 h1 {
-  color: blue;
+  color: white;
 }
+p {
+  color: white;
+  }
 
 .container{
-    background-color: blue;
+    background-color: red;
+}
+ul {
+  color: white;
+  border: 10px solid white;
+  font-size: 15px;
 }
 
 body{
-    background-color: red;
+    background-color: grey;
 }
 
 .navbar li{
   display: inline;
-  background-image:
+  background-image: https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.goodfreephotos.com%2Falbums%2Fsports%2Fplayer-catching-football.jpg&imgrefurl=https%3A%2F%2Fwww.goodfreephotos.com%2Fsports%2Fplayer-catching-football.jpg.php&docid=TBdAhX7itc7GvM&tbnid=4KiGMCCR49Ck2M%3A&vet=12ahUKEwijv5a-1MTdAhXNq1MKHXOBC3A4ZBAzKCUwJXoECAEQJg..i&w=2048&h=1365&safe=active&bih=918&biw=1280&q=football&ved=2ahUKEwijv5a-1MTdAhXNq1MKHXOBC3A4ZBAzKCUwJXoECAEQJg&iact=mrc&uact=8
 }
 
  .login {
