@@ -4,13 +4,15 @@ h1 {
 p {
   color: white;
   }
+h4 {
+  color: white;
+}
 
 .container{
     background-color: red;
 }
 ul {
   color: white;
-  border: 10px solid white;
   font-size: 15px;
 }
 
